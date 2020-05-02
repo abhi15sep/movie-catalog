@@ -1,0 +1,14 @@
+{
+  "main.css": "/movie-catalog/static/css/main.7d5e6fcc.chunk.css",
+  "main.js": "/movie-catalog/static/js/main.7736a0c9.chunk.js",
+  "main.js.map": "/movie-catalog/static/js/main.7736a0c9.chunk.js.map",
+  "runtime~main.js": "/movie-catalog/static/js/runtime~main.599fc602.js",
+  "runtime~main.js.map": "/movie-catalog/static/js/runtime~main.599fc602.js.map",
+  "static/js/2.83f3be23.chunk.js": "/movie-catalog/static/js/2.83f3be23.chunk.js",
+  "static/js/2.83f3be23.chunk.js.map": "/movie-catalog/static/js/2.83f3be23.chunk.js.map",
+  "index.html": "/movie-catalog/index.html",
+  "precache-manifest.ea872de484cb653e1a66c0f7cbeab7d2.js": "/movie-catalog/precache-manifest.ea872de484cb653e1a66c0f7cbeab7d2.js",
+  "service-worker.js": "/movie-catalog/service-worker.js",
+  "static/css/main.7d5e6fcc.chunk.css.map": "/movie-catalog/static/css/main.7d5e6fcc.chunk.css.map",
+  "static/media/placeholder.png": "/movie-catalog/static/media/placeholder.d1b4253f.png"
+}
