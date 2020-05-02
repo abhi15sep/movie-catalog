@@ -77,7 +77,7 @@ const ProfilePage = ({ profile, fetchProfile, match }) => {
       <ProfilePageContainer>
         <ProfileInfoContainer>
           <ProfileImgContainer>
-            <ProfileImg src={info.profile_path ? `http://image.tmdb.org/t/p/w185${info.profile_path}` : placeholder} alt={info.name} />
+            <ProfileImg src={info.profile_path ? `https://image.tmdb.org/t/p/w185${info.profile_path}` : placeholder} alt={info.name} />
           </ProfileImgContainer>
           <ProfileInfo>
             <h1>{info.name}</h1>

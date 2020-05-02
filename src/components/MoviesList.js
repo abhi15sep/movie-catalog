@@ -91,7 +91,7 @@ const MoviesList = ({ data }) => {
               data-id={movie.id}
             >
               <MoviePosterContainer>
-                <MoviePoster src={movie.poster_path !== null ? `http://image.tmdb.org/t/p/w342${movie.poster_path}` : placeholder} alt='movie poster' />
+                <MoviePoster src={movie.poster_path !== null ? `https://image.tmdb.org/t/p/w342${movie.poster_path}` : placeholder} alt='movie poster' />
               </MoviePosterContainer>
               <MovieSubContainer>
                 <MovieSubTitle>{movie.title}</MovieSubTitle>

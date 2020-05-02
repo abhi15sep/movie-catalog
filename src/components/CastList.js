@@ -44,7 +44,7 @@ const CastList = ({data}) => {
         return (
           <CastItem key={`cast_${x.id}`}>
             <AvatarLink to={`/profile/${x.id}`} data-id={x.id}>
-              <AvatarImg src={x.profile_path ? `http://image.tmdb.org/t/p/w185${x.profile_path}` : placeholder} alt='' />
+              <AvatarImg src={x.profile_path ? `https://image.tmdb.org/t/p/w185${x.profile_path}` : placeholder} alt='' />
             </AvatarLink>
           </CastItem>
         )

@@ -145,7 +145,7 @@ const MovieInfo = ({ info, cast, video }) => {
   return (
     <MovieInfoContainer>
       <PosterContainer>
-        <PosterImg src={info.poster_path ? `http://image.tmdb.org/t/p/w500${info.poster_path}` : placeholder} alt='poster' />
+        <PosterImg src={info.poster_path ? `https://image.tmdb.org/t/p/w500${info.poster_path}` : placeholder} alt='poster' />
       </PosterContainer>
       <InfoContainer>
         <div>
